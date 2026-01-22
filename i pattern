@@ -14,3 +14,10 @@ int main(){
         i++;
     }
 }
+/* PRINTING BASED ON I
+i=5
+*
+**
+***
+****
+*****  */
